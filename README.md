@@ -9,5 +9,5 @@
 ##### Completed Image 
 
 <p align="center">
-  <img src="/result/photo.png" alt="Final Image">
+  <img src="/result/photo.png" alt="Final Image" width="400">
 </p>
